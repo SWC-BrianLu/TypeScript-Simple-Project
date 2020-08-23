@@ -75,5 +75,6 @@ class CashMachine implements ICashMachine {
     withdraw(amount: number): void {
         throw new Error("Method not implemented.")
     }
+    
 
 }
